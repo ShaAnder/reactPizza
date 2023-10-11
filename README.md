@@ -5,16 +5,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://shander-forkify.netlify.app" target="_blank">
-    <img alt="Demo" src="https://img.shields.io/badge/demo-online-green.svg" />
+  <a href="" target="_blank">
+    <img alt="Demo" src="https://img.shields.io/badge/demo-offline-red.svg" />
   </a>
-  <a href="https://github.com/ShaAnder/forkify#readme" target="_blank">
+  <a href="https://github.com/ShaAnder/react_pizza#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/ShaAnder/forkify/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/ShaAnder/react_pizza/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
   </a>
-  <a href="https://github.com/ShaAnder/forkify/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/ShaAnder/react_pizza/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 
@@ -50,7 +50,7 @@ This app utilizes several features that would typically be found in an ordering 
 First clone this repo
 
 ```sh
-git clone https://github.com/ShaAnder/forkify.git
+git clone https://github.com/ShaAnder/react_pizza.git
 ```
 
 NPM install to get the dependancies
