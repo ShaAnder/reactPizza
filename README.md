@@ -1,8 +1,12 @@
-<h1 align="center">React Pizza Orders</h1>
-<p align="center">
-    <img src="public/favicon.ico" alt="Logo" width="15%" height="auto">
- </p>
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="120%">
+    
+<h1  align="center">reactPizza</h1>
+
+<p  align="center">
+<img src="public\image.png" alt="project image" height="200px">
+    
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://shander-forkify.netlify.app" target="_blank">
@@ -20,11 +24,10 @@
 
 </p>
 
-<p align="left">
-This is a small project showcasing react working in a project based setting, it's main goal was to teach how components worked, how to utilize props, conditional rendering and more.
-</p>
 
-## APP Features
+<h2 class="header2">Description</h2>
+<p class="text-content">
+This is a small project showcasing react working in a project based setting, it's main goal was to teach how components worked, how to utilize props, conditional rendering and more.
 
 This app utilizes several features that would typically be found in an ordering app
 
@@ -33,66 +36,65 @@ This app utilizes several features that would typically be found in an ordering 
 - Ordering button
 - Ui elements to show opening hours and wether the store is open or not
 
-## Languages / Modules / APIs Used
+<h2>Prerequisites</h2>
 
-- JavaScript
-- CSS3
-- HTML5
+<h4>Languages Used</h4>
+- JavaScript<br>
+- CSS3<br>
+- HTML5<br>
 - React
-- NodeJS
 
-<p align="center">
-  <img alt="React Pizza App" src="public\image.png" width="50%" />
-</p>
+<h4>API</h4>
 
-## Installation Guide
+
+<h4>Packages</h4>
+
+<h2>Installation</h2>
 
 First clone this repo
 
 ```sh
-git clone https://github.com/ShaAnder/react_pizza.git
+git clone
 ```
-
 NPM install to get the dependancies
 
 ```sh
-npm install
+npm install 
 ```
-
 Use npm start to start the local server / test the app
 
 ```sh
 npm start
 ```
 
-## Summary
+</div>
 
-This summary section is pretty much a small snippet to what i had learnt so far with react.
+<h2>Contributing</h2>
 
-This app was first and foremost very fun to build, it showcased how one could utilize the various features of react and component building to create a real world ordering application and as well as this it has potential to be upscaled to a full app in the future
+Got any issues or see any problems with the code? Check here:<br>
+[Issue Tracker](github.com/Sleepdex/issues)
 
-Below we can see a list of summarized learning points and feel free to ask or dm me about them so i can go more into depth:
+</div>
 
-- Code refactoring
-- setting up react apps
-- Components and optimization
-- prop utilization and destruction
-- conditional rendering
-
-and more
-
-## TO DO
-
-This project while small in scale now has the very real potential to become a large scale app with time and knowledge gained and i look forward to working on it
-
-## Author
-
-ShaAnder [LinkedIn](https://www.linkedin.com/in/shaun-anderton-551670a9/) | [Twitter](https://twitter.com/ShaAnder10) | [Github](https://github.com/ShaAnder)
-
-## Credits
-
-This app was created as part of [Jonas Smechmann](https://twitter.com/jonasschmedtman)'s Udemy course [The Ultimate React course 2023](https://www.udemy.com/course/the-ultimate-react-course).
-
-## License
+<h2>License</h2>
 
 This project is [MIT](https://github.com/ShaAnder/react-pizza/blob/main/LICENSE) licensed.
+
+<h2>Credits</h2>
+
+This app was created as part of [Jonas Smechmann](https://twitter.com/jonasschmedtman)'s Udemy course [The Ultimate React course 2023](https://www.udemy.com/course/the-ultimate-react-course).
+<h2>Contact</h2>
+
+[LinkedIn](https://www.linkedin.com/in/shaun-anderton-551670a9/)<br>
+[Twitter](https://twitter.com/ShaAnder10)<br>
+[Github](https://github.com/ShaAnder)
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="120%">
+
+
+
+
+
+
+
